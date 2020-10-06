@@ -1,0 +1,4 @@
+index.html(Jumbotron, links, carousel)
+about.html(table)
+search.html(text input, button (id searching ))
+score.html(dropdown, button (scoreing averange))
